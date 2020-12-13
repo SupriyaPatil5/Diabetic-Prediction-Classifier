@@ -25,4 +25,4 @@ The data set for the same is uploaded as DIABETIC.csv
 
 The Notebook for code is .ipnb file
 
-Project Team Members: Neelima Saini - Final Year MBA in Data Science at MIT ADT University, Institiute of Product Leadership . Supriya Patil - Final Year MBA in Data science student at MIT Univeristy Umesh Salaunke - Final Year MBA in Data science student at MIT Univeristy
+Project Team Members: Supriya Patil - Final Year MBA in Data science student at MIT Univeristy, Institiute of Product Leadership. Neelima Saini - Final Year MBA in Data Science at MIT ADT University. Umesh Salaunke - Final Year MBA in Data science student at MIT Univeristy
