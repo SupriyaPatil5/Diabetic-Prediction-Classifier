@@ -1,5 +1,5 @@
 # Diabetic-Prediction-Classifier
-This project has been carried out in collaboration with Supriya Patil and Umesh Salunke , where we are predicting whether a patient has diabetes or not.
+This project has been carried out in collaboration with Neelima Saini and Umesh Salunke , where we are predicting whether a patient has diabetes or not.
 
 The datasets consist of 8 medical predictor (independent) variables
 
